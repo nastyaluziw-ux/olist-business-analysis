@@ -1,4 +1,3 @@
-[Readme.md](https://github.com/user-attachments/files/31035715/Readme.md  )
 # Olist E-commerce Business Analysis
 
 ## Overview
@@ -7,14 +6,6 @@ This project analyzes the **Olist Brazilian E-commerce dataset** to evaluate bus
 
 The goal was not only to calculate KPIs, but to investigate business questions, test hypotheses, and translate the results into actionable recommendations.
 
-
-
-The project combines:  
-
-**SQL · Python · pandas · Tableau · Business Analysis
-**
-
----
 
 ## Business Objectives
 
@@ -145,7 +136,7 @@ The following KPIs were calculated using SQL:
 * **Total Revenue:** approximately **BRL 16.0M**
 * **Total Orders:** approximately **99K**
 * **Active Customers:** **96,096**
-* **Average Order Value**161**
+**Average Order Value:** approximately **BRL 161**
 * **Cancellation Rate:** approximately **0.63%**
 * **Average Delivery Time:** approximately **12 days**
 
@@ -344,9 +335,7 @@ High Value customers generate approximately **60% of total revenue** despite rep
 
 ### Insight
 
-Customer value is highly uneven.
-
-A relatively small portion of customers contributes a disproportionately large share of business revenue.
+Customer value is unevenly distributed. The High Value segment, representing approximately 25% of customers by design, generates around 60% of total revenue.
 
 ---
 
@@ -503,10 +492,11 @@ It includes:
 * Delivery performance
 * Geographic analysis
 * Revenue trends
-![E- commerce Sales Overview.png](Images/E-%20commerce%20Sales%20Overview.png)
+<img width="2046" height="1734" alt="Customer Segmentation   Revenue Concentration (1)" src="https://github.com/user-attachments/assets/263cfcde-b8a9-4898-a6ef-a736a20594c9" />
+
 
 **View on Tableau Public:**
-https://public.tableau.com/views/E-commerceSalesOverviewBrazilianE-commerceDatasetOlist20162018/E-commerceSalesOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/E-commerceSalesOverviewBrazilianE-commerceDatasetOlist20162018/E-commerceSalesOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link  
 
 ---
 
@@ -517,12 +507,11 @@ The second dashboard focuses on customer value and revenue concentration.
 It includes:
 
 * Customer segments
-* Revenue contribution by segment
+* Revenue contribution by segment  
 * Average revenue per customer
 * Pareto analysis
 * Business insights
 
-![Customer Segmentation & Revenue Concentration.png](Images/Customer%20Segmentation%20%26%20Revenue%20Concentration.png)
 
 **View on Tableau Public:**
 https://public.tableau.com/views/CustomersegmentationRevenueconcentrationBrazilianE-commerceDatasetOlist20162018/CustomerSegmentationRevenueConcentration?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
@@ -531,9 +520,6 @@ https://public.tableau.com/views/CustomersegmentationRevenueconcentrationBrazili
 
 # Project Structure
 
-```text
-olist-business-analysis/
-## Project Structure
 
 ```text
 olist-business-analysis/
