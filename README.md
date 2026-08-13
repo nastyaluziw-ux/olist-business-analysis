@@ -7,15 +7,19 @@ This project analyzes the **Olist Brazilian E-commerce dataset** to evaluate bus
 
 The goal was not only to calculate KPIs, but to investigate business questions, test hypotheses, and translate the results into actionable recommendations.
 
+
+
 The project combines:  
 
-**SQL · Python · pandas · Tableau · Business Analysis**
+**SQL · Python · pandas · Tableau · Business Analysis
+**
 
 ---
 
 ## Business Objectives
 
 The analysis focuses on the following questions:
+
 
 * How has revenue changed over time?
 * Which Brazilian states generate the most revenue?
@@ -352,7 +356,11 @@ A Pareto analysis was performed to measure customer revenue concentration.
 
 The analysis showed that approximately:
 
-## **46.6% of customers generate 80% of total revenue**
+## **48.66% of customers generate 80% of total revenue
+
+
+
+**
 
 This confirms that customer value is significantly concentrated.
 
@@ -525,29 +533,30 @@ https://public.tableau.com/app/profile/anastasia.lutsiv
 
 ```text
 olist-business-analysis/
+## Project Structure
+
+```text
+olist-business-analysis/
 │
 ├── README.md
 │
 ├── python/
-│   ├── analysis.py
-│   └── analysis.ipynb
+│   └── analysis.py
+│
+├── notebooks/
+│   └── olist_analysis.ipynb
 │
 ├── sql/
 │   ├── kpis.sql
 │   └── business_questions.sql
 │
 ├── data/
-│   └── processed datasets
-│
-├── dashboard/
-│   └── Tableau files
+│   └── brazil_states.csv
 │
 └── images/
-    ├── executive_dashboard.png
-    └── customer_dashboard.png
-```
+    ├── e_commerce_sales_overview.png
+    └── customer_segmentation_revenue_concentration.png
 
----
 
 # Limitations
 
