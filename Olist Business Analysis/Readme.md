@@ -538,9 +538,6 @@ olist-business-analysis/
 ├── data/
 │   └── processed datasets
 │
-├── dashboard/
-│   └── Tableau files
-│
 └── images/
     ├── executive_dashboard.png
     └── customer_dashboard.png
