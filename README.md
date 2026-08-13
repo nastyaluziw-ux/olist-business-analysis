@@ -506,7 +506,7 @@ It includes:
 ![E- commerce Sales Overview.png](Images/E-%20commerce%20Sales%20Overview.png)
 
 **View on Tableau Public:**
-https://public.tableau.com/app/profile/anastasia.lutsiv
+https://public.tableau.com/views/E-commerceSalesOverviewBrazilianE-commerceDatasetOlist20162018/E-commerceSalesOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
@@ -525,7 +525,7 @@ It includes:
 ![Customer Segmentation & Revenue Concentration.png](Images/Customer%20Segmentation%20%26%20Revenue%20Concentration.png)
 
 **View on Tableau Public:**
-https://public.tableau.com/app/profile/anastasia.lutsiv
+https://public.tableau.com/views/CustomersegmentationRevenueconcentrationBrazilianE-commerceDatasetOlist20162018/CustomerSegmentationRevenueConcentration?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ---
 
