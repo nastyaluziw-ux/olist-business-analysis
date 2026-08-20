@@ -52,7 +52,7 @@ For customer-level analysis, `customer_unique_id` was used to identify the same 
 
 ---
 
-# Tools
+#  Tech Stack
 
 ### SQL — SQLite
 
@@ -91,6 +91,7 @@ Used for:
 * Customer segmentation
 * Pareto analysis
 * Tableau dataset preparation
+
 
 ### Tableau
 
